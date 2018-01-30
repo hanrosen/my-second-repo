@@ -1,2 +1,4 @@
 print('My name is Hannah')
-print('I was born in 1998')
+print("I was born in NJ")
+print('My name is Danielle')
+print('I was born in NY')
